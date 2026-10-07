@@ -1,0 +1,30 @@
+:root {
+    /* Backgrounds */
+    --head-bg: #00000099;
+    --page-bg: #241313;
+    --card-bg: #530f0f;
+    --foot-bg: #400e1a;
+    /* Text Colors */
+    --page-txt: #ff9500;
+    --foot-txt: #ffbfcf;
+    --head-txt: #ff9500;
+    --subt-txt: #ffc778;
+    --flvr-txt: #ff7e75;
+    /* Link Colors */
+    /* Unvisited */
+    --page-lnk: #ffc778;
+    --foot-lnk: #ff84a3;
+    /* Visited */
+    --page-v-lnk: #ff7e75;
+    --foot-v-lnk: #e284ff;
+    /* Hover */
+    --page-h-lnk: #ffe6c2;
+    --foot-h-lnk: #ffbfcf;
+    /* Borders */
+    --card-brd: #ff9500;
+    --foot-brd: #a4203c;
+    /* Buttons */
+    --bttn: #a4203c;
+    --bttn-h: #c54b69;
+    --bttn-brd: #a85f72;
+}
