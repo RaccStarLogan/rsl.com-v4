@@ -1,0 +1,23 @@
+:root {
+    /* Backgrounds */
+    --head-bg: #00000099;
+    --page-bg: #121735;
+    --card-bg: #1c2240;
+    --foot-bg: #400e1a;
+    /* Text Colors */
+    --page-txt: #c0e0ff;
+    --foot-txt: #ffbfcf;
+    /* Link Colors */
+    /* Unvisited */
+    --page-lnk: #81c0ff;
+    --foot-lnk: #ff84a3;
+    /* Visited */
+    --page-v-lnk: #8e81ff;
+    --foot-v-lnk: #e284ff;
+    /* Hover */
+    --page-h-lnk: #c0e0ff;
+    --foot-h-lnk: #ffbfcf;
+    /* Borders */
+    --card-brd: #c0e0ff;
+    --foot-brd: #a4203c;
+}
