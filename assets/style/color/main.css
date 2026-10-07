@@ -7,6 +7,9 @@
     /* Text Colors */
     --page-txt: #c0e0ff;
     --foot-txt: #ffbfcf;
+    --head-txt: #81c0ff;
+    --subt-txt: #81c0ff;
+    --flvr-txt: #8e81ff;
     /* Link Colors */
     /* Unvisited */
     --page-lnk: #81c0ff;
@@ -20,4 +23,8 @@
     /* Borders */
     --card-brd: #c0e0ff;
     --foot-brd: #a4203c;
+    /* Buttons */
+    --bttn: #a4203c;
+    --bttn-h: #c54b69;
+    --bttn-brd: #a85f72;
 }
