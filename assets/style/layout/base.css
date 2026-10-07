@@ -226,6 +226,10 @@ section {
     background-color: var(--bttn-h);
 }
 
+.shouts-page {
+    margin: 0.5rem;
+}
+
 #footer {
     background-color: var(--foot-bg);
     color: var(--foot-txt) !important;
